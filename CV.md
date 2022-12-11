@@ -1,4 +1,5 @@
 # **Viktoriya Osmolovskaya**
+! [Me](%D0%AF.jpg "Me")
 ## **Contacts**
 * *Location*: Mogilev, Belsrus
 * *Telegram*: tropiya
@@ -23,4 +24,7 @@ I have good interpersonal and high-order thinking skills.
 * VS code
 
 ## **Languages**:
-* English
+* English: B2
+* Russian: Native
+* Belarussian: Native
+* Korean: A2
