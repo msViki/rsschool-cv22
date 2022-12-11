@@ -1,5 +1,5 @@
 # **Viktoriya Osmolovskaya**
-! [Me](%D0%AF.jpg "Me")
+!image src="Я.jpg" alt="Me">
 ## **Contacts**
 * *Location*: Mogilev, Belsrus
 * *Telegram*: tropiya
