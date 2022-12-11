@@ -1,8 +1,10 @@
 # **Viktoriya Osmolovskaya**
+
 ## **Contacts**
+
 * *Location*: Mogilev, Belsrus
 * *Telegram*: tropiya
-* *GitHub*: msViki
+* *GitHub/Discord*: msViki
 * *Phone*: +375336335965
 
 ## **About me**
